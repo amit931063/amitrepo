@@ -1,4 +1,4 @@
 # amitrepo
 this is my first repository
 <br>
- authors name-amit kumar
+ authors name-amit kumar(from GJu)
